@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advance mod 1","desc":"In today's globalized world, knowing multiple languages is a valuable asset, both personally and professionally. Banbaleena 3 is an innovative language learning application that offers a comprehensive approach to language learning, providing users with a wide range of features and tools to improve their language skills.","photo":"https://iili.io/HOlyoRn.jpg"},
+  {"title":"helper pack 2","desc":"Knowing various languages is a crucial skill in today's globalized society, both personally and professionally. With a comprehensive approach to language learning and a wealth of features and tools to help users advance their language abilities, Banbaleena 3 is a cutting-edge language learning program.","photo":"https://iili.io/HOlyBSt.jpg"},
+  {"title":"tips mod 3","desc":"The popular Banbaleena language learning software series' most recent release, Banbaleena 3, is made to make learning a language simple, approachable, and enjoyable. Several languages, including English, Spanish, French, German, Italian, Portuguese, Russian, and Chinese are supported by the program.","photo":"https://iili.io/HOlyTxf.jpg"},
+  {"title":"advive pack 4","desc":"The popular Banbaleena language learning software series' most recent release, Banbaleena 3, is made to make learning a language simple, approachable, and enjoyable. Several languages, including English, Spanish, French, German, Italian, Portuguese, Russian, and Chinese are supported by the program.","photo":"https://iili.io/HOlyzDG.jpg"},
+  {"title":"How to use this app 5","desc":"The most recent release in the well-known Banbaleena language learning app series, Banbaleena 3, aims to make learning a new language simple, convenient, and enjoyable. English, Spanish, French, German, Italian, Portuguese, Russian, and Chinese are just a few of the languages that the application supports.","photo":"https://iili.io/HOlyuV4.jpg"},
+  {"title":"helper mod  6","desc":"One of the most impressive features of Banbaleena 3 is its personalized learning approach. The app adapts to the user's level and progress, creating a customized learning experience. It starts with a placement test to determine the user's proficiency level and then offers lessons and activities tailored to their needs.","photo":"https://iili.io/HOlyAil.jpg"},
+  {"title":"tips pack 7","desc":"The individualized learning strategy of Banbaleena 3 is one of its most outstanding aspects. The program customizes the learning experience based on the user's level and progress. It delivers lessons and exercises that are specific to the user's needs after determining their competence level through a placement test.","photo":"https://iili.io/HOlynHX.jpg"},
+  {"title":"advance pack 8","desc":"Banbaleena 3's individualized learning strategy is one of its most striking aspects. The program creates a personalized learning environment by adjusting to the user's level and progress. It begins with a placement test to ascertain the user's level of proficiency and then provides classes and activities catered to their requirements.","photo":"https://iili.io/HOlPwqg.jpg"}
 
    ]
  
